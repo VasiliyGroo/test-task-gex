@@ -6,6 +6,7 @@
 <ol>
 <li>Страница регистрации</li>
 ![til](https://user-images.githubusercontent.com/84619098/188455111-1645cbfa-5eab-49ad-ae5c-b1e30647cf92.gif)
+  <img src="[til](https://user-images.githubusercontent.com/84619098/188455111-1645cbfa-5eab-49ad-ae5c-b1e30647cf92.gif)" alt="My Project GIF" width="500" height="600">
 <li>Страница авторизации</li>
 <li>Основная страница, реализующая следующую функциональность:</li>
 <ol>
