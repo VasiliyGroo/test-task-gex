@@ -42,3 +42,7 @@ cd test-task-gex
 ```git
 npm run dev
 ```
+После загрузки локального сервера перейдите на localhost
+```terminal
+ > Local: http://localhost:3000/
+```
