@@ -5,7 +5,7 @@
 Реализован следующий функционал:
 <ol>
 <li>Страница регистрации</li>
-https://user-images.githubusercontent.com/84619098/188453957-d906f82c-99c5-4454-9816-126927ab4d97.mov
+![Registration](https://user-images.githubusercontent.com/84619098/188455111-1645cbfa-5eab-49ad-ae5c-b1e30647cf92.gif)
 <li>Страница авторизации</li>
 <li>Основная страница, реализующая следующую функциональность:</li>
 <ol>
