@@ -6,6 +6,8 @@
 ![](https://user-images.githubusercontent.com/84619098/188457865-05970681-3386-42e5-935c-0d222b4122c7.gif)
 ![](https://user-images.githubusercontent.com/84619098/188456949-e6960059-9642-4cd2-b7e7-ba25873dafbf.gif)
 
+### Проект доступен по ссылке: http://mrroboto.ru
+
 Стек:
 <ol>
 <li>Инструмент сборки веб-проектов - Vite.js;</li>
