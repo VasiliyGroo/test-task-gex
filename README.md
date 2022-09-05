@@ -44,5 +44,5 @@ npm run dev
 ```
 После загрузки локального сервера перейдите на localhost
 ```terminal
- > Local: http://localhost:3000/
+http://localhost:3000/
 ```
