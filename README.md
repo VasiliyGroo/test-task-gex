@@ -1,7 +1,8 @@
 # Тестовое задание
 
 ## Реализация frontend части сервиса сокращения ссылок
-![Запись-экрана-2022-09-05-в-15 48 26](https://user-images.githubusercontent.com/84619098/188457751-38ca118e-30f8-4911-a6cd-b7c25f5e6c8a.gif)
+
+![Запись-экрана-2022-09-05-в-15 47 33](https://user-images.githubusercontent.com/84619098/188457865-05970681-3386-42e5-935c-0d222b4122c7.gif)
 
 <img src="https://user-images.githubusercontent.com/84619098/188456949-e6960059-9642-4cd2-b7e7-ba25873dafbf.gif" width="700" height="420" />
 
