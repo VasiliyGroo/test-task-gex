@@ -35,3 +35,11 @@ cd my-dir
 ```git
 git clone https://github.com/VasiliyGroo/test-task-gex
 ```
+Перейдите в клонированную папку test-task-gex
+```git
+cd test-task-gex
+```
+Выполните команду запуска проекта в режиме dev
+```git
+npm run dev
+```
