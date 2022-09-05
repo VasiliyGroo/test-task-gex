@@ -24,14 +24,14 @@
 
 Для начала создайте папку в которой вы хотите клонировать проект:
 ```git
-$ mkdir my-dir
+mkdir my-dir
 ```
 
 Перейдите в созданную папку
 ```git
-$ cd my-dir
+cd my-dir
 ```
 Затем выполните команду:
 ```git
-$ git clone https://github.com/VasiliyGroo/test-task-gex
+git clone https://github.com/VasiliyGroo/test-task-gex
 ```
