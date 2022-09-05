@@ -1,4 +1,5 @@
 # Тестовое задание
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasiliygroo&label=Profile%20views&color=0e75b6&style=flat" alt="vasiliygroo" /> </p>
 
 ## Реализация frontend части сервиса сокращения ссылок
 
