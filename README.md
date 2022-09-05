@@ -2,7 +2,7 @@
 
 ## Реализация frontend части сервиса сокращения ссылок
 
-![](https://user-images.githubusercontent.com/84619098/188455111-1645cbfa-5eab-49ad-ae5c-b1e30647cf92.gif)
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://user-images.githubusercontent.com/84619098/188456949-e6960059-9642-4cd2-b7e7-ba25873dafbf.gif)" width="600" height="400" />
 
 Реализован следующий функционал:
 <ol>
